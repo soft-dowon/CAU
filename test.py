@@ -1,4 +1,4 @@
 def hello():
-      print("Hello, Dowon master!")
+    print("Hello, Dowon!")
 
 hello()
